@@ -1,4 +1,10 @@
+DateTime==5.1
 greenlet==2.0.2
+mysqlclient==2.1.1
+pycodestyle==2.10.0
 python-dotenv==1.0.0
+pytz==2023.3
 SQLAlchemy==2.0.16
 typing_extensions==4.6.3
+uuid==1.30
+zope.interface==6.0
